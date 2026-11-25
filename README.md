@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Ammar 👋
 
-<!--
-**Ammaralshater/Ammaralshater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student @ 42 Nice | Systems Programming | Problem Solving**
 
-Here are some ideas to get you started:
+I'm a software engineering student based in the French Riviera, transitioning from international business and operations into technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about understanding how software works under the hood, building efficient solutions, and developing strong computer science fundamentals.
+
+## Technical toolbox
+
+![C](https://img.shields.io/badge/C-555FA5?style=flat-square&logo=c&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Makefile](https://img.shields.io/badge/Makefile-555555?style=flat-square)
+
+## Currently learning
+
+- Memory management and pointers
+- Data structures and algorithms
+- Unix systems programming
+- Software architecture and debugging
+
+## My 42 journey
+
+| Project | Focus |
+|---|---|
+| Libft | C standard library |
+| ft_printf | Variadic functions |
+| Get Next Line | File I/O and static variables |
+| Push Swap | Sorting algorithms |
+
+## Beyond programming
+
+Background in international business, customer operations and multicultural environments.
+
+**Languages:** Arabic, English, Spanish and French.
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/ammar-al-shater-973161b4/)
+
+---
+
+*Building. Learning. Improving.*
